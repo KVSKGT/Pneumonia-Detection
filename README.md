@@ -14,7 +14,7 @@ Dataset contains:
 - Normal cases
 - Pneumonia infected cases
 
-Dataset Source: *(Add dataset link here — Kaggle / NIH / etc.)*
+Dataset Source: (https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
 
 ---
 
